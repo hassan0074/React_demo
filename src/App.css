@@ -1,0 +1,50 @@
+.container
+{
+  padding : 0 1rem;
+}
+.img-style
+{
+  height: 240px;
+  width: 240px;
+  display: inline-block;
+  cursor: pointer;
+}
+.map-div
+{
+  padding : 5px;
+  text-align: center;
+}
+h3{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+  color: darkcyan;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  cursor: pointer;
+}
+.header-style
+{
+  background-color: black;
+  color: beige;
+  text-align: center;
+  align-content: center;
+  padding : 10px
+}
+.header-font
+{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sub-div
+{
+  display: flex
+}
+.bar
+{
+  flex: 15;
+  padding: 8px;
+}
+.sub-btn
+{
+  flex: 1;
+  background-color: chartreuse;
+}
